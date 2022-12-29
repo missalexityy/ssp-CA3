@@ -10,7 +10,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<xsl:for-each select="//category">
+				<xsl:for-each select="//product">
 					<tr>
 						<td colspan="3">
 							<xsl:value-of select="@name" />
