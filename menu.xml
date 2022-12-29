@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <product name="All Day Breakfast">
+    <item>
+      <listing>Breakfast Roll</listing>
+      <price>5.50</price>
+    </item>
+    <item>
+      <listing>Sausage Roll</listing>
+      <price>1.00</price>
+    </item>
+    <item deli="true">
+      <listing>Tea/Coffee and Scone with Jam and Cream</listing>
+      <price>3.80</price>
+    </item>
+  </product>
+  <product name="Hot Food">
+    <item>
+      <listing>Chicken Fillet Baguette</listing>
+      <price>4.50</price>
+    </item>
+    <item>
+      <listing>Snack Box</listing>
+      <price>5.00</price>
+    </item>
+    <item deli="true">
+      <listing>Fish and Chips</listing>
+      <price>6.95</price>
+    </item>
+  </product>
+  <product name="Minerals">
+    <item>
+      <listing>Ballygowan Still 500ml</listing>
+      <price>2=.00</price>
+    </item>
+    <item>
+      <listing>Coca Cola Can 330ml</listing>
+      <price>1.25</price>
+    </item>
+    <item deli="true">
+      <listing>Diet Coke 500ml</listing>
+      <price>1.60</price>
+    </item>
+  </product>
+  <product name="Hot Drinks">
+    <item>
+      <listing>Bewley's Regular Coffee</listing>
+      <price>2.30</price>
+    </item>
+    <item>
+      <listing>Bewley's Tea</listing>
+      <price>2.00</price>
+    </item>
+    <item deli="true">
+      <listing>Hot Chocolate</listing>
+      <price>3.80</price>
+    </item>
+  </product>
+  <product name="Confectionery">
+    <item>
+      <listing>Kinder Bueno</listing>
+      <price>1.60</price>
+    </item>
+    <item>
+      <listing>Fulfil Salted Caramel</listing>
+      <price>2.90</price>
+    </item>
+    <item deli="true">
+      <listing>Wrigleys Extra Peppermint 10pk</listing>
+      <price>0.75</price>
+    </item>
+  </product>
+</menu>
