@@ -10,7 +10,7 @@ const   http = require('http'), //HTTP server
         
         router.use(express.static(path.resolve(__dirname,'views')));
         router.use(express.urlencoded({extended: true}));
-        router.use(express.json());
+        router.use(express.json()); //Reference: Mikhail
 
 function XMLtoJSON(filename, cb){
     let filepath = path.normalize(path.join(__dirname, filename));
